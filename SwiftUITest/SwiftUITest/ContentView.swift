@@ -10,8 +10,14 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image("Kodeco")
-            Text("Welcome to the Kodeco SwiftUI cookbook!")
+            Text("Hello, SwiftUI!")
+                .padding()
+            Button {
+                print("Button tapped!")
+            } label: {
+                Text("Tap me!")
+            }
+
         }
     }
 }
@@ -19,5 +25,10 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .previewDevice("iPhone 14 Pro")
+        ContentView()
+            .preferredColorScheme(.dark)
+        ContentView()
+            .previewInterfaceOrientation(.landscapeLeft)
     }
 }
