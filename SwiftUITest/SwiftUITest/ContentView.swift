@@ -12,11 +12,19 @@ struct ContentView: View {
         VStack {
             Text("Hello, SwiftUI!")
                 .padding()
+                .font(.headline)
             Button {
                 print("Button tapped!")
             } label: {
                 Text("Tap me!")
             }
+            Image("Kodeco")
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+                .frame(width: 200, height: 200)
+                .clipShape(Circle())
+                .overlay(Circle().stroke(Color.gray, lineWidth: 2))
+                .shadow(radius: 7)
 
         }
     }
