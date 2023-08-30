@@ -13,11 +13,28 @@ struct ContentView: View {
             Text("Hello, SwiftUI!")
                 .padding()
                 .font(.headline)
-            Button {
-                print("Button tapped!")
-            } label: {
-                Text("Tap me!")
-            }
+//            Button {
+//                print("Button tapped!")
+//            } label: {
+//                Text("Tap me!")
+//            }
+            
+            Button(action: {
+                print("Button Pressed")
+            }, label: {
+                Text("Press me!")
+                    .font(.largeTitle)
+                    .foregroundColor(.blue)
+            })
+            .padding()
+            .background(
+                LinearGradient(
+                    gradient: Gradient(colors: [.purple, .pink]),
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing)
+            )
+            .cornerRadius(10)
+            
             Image("Kodeco")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
