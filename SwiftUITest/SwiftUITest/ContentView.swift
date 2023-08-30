@@ -9,16 +9,31 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
+        NavigationStack {
+            VStack {
+                Text("Welcome to my app!")
+                NavigationLink(destination: DetailView()) {
+                    Text("Go to detail View")
+                }
+                .navigationTitle("Home")
+                .navigationBarTitleDisplayMode(.large)
+                .toolbar {
+                    ToolbarItem(placement: .navigationBarTrailing) {
+                        Button(action: {
+                            print("Settings tapped")
+                        }) {
+                            Text("Settings")
+                        }
+                    }
+                }
+            }
+        }
+        
         VStack {
             Text("Hello, SwiftUI!")
                 .padding()
                 .font(.headline)
-//            Button {
-//                print("Button tapped!")
-//            } label: {
-//                Text("Tap me!")
-//            }
-            
             Button(action: {
                 print("Button Pressed")
             }, label: {
@@ -38,12 +53,20 @@ struct ContentView: View {
             Image("Kodeco")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
-                .frame(width: 200, height: 200)
+                .frame(width: 100, height: 100)
                 .clipShape(Circle())
                 .overlay(Circle().stroke(Color.gray, lineWidth: 2))
                 .shadow(radius: 7)
 
         }
+    }
+}
+
+struct DetailView: View {
+    var body: some View {
+        Text("This is the detail View!")
+            .navigationTitle("Detail")
+            .navigationBarTitleDisplayMode(.large)
     }
 }
 
