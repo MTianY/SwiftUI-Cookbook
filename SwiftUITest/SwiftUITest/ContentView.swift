@@ -8,7 +8,38 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State private var username = ""
+    @State private var email = ""
+    @State private var password = ""
+    
+    func register() {
+        
+    }
+    
     var body: some View {
+        
+        NavigationView {
+            Form {
+                Section(header: Text("Personal Information"), footer: Text("testFooter")) {
+                    TextField("Username", text: $username)
+                    TextField("Email", text: $email)
+                    Image("Kodeco")
+                        .frame(width: 200, height: 40)
+                }
+                
+                Section(header: Text("Login Credentials")) {
+                    SecureField("Password", text: $password)
+                }
+                
+                Section {
+                    Button(action: register) {
+                        Text("Register")
+                    }
+                }
+            }
+            .navigationTitle("Registration Form")
+        }
         
         NavigationStack {
             VStack {
