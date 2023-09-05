@@ -13,6 +13,16 @@
 		B9167D8B2A9F2A6A0093C3A9 /* MyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9167D8A2A9F2A6A0093C3A9 /* MyStateView.swift */; };
 		B9167D8F2A9F3BC90093C3A9 /* MyObservableObjView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9167D8E2A9F3BC90093C3A9 /* MyObservableObjView.swift */; };
 		B9B120F72AA02DA000474A90 /* MyStateObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B120F62AA02DA000474A90 /* MyStateObjectView.swift */; };
+		B9B120F92AA032E900474A90 /* MyCombineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B120F82AA032E900474A90 /* MyCombineView.swift */; };
+		B9B1212B2AA6C37600474A90 /* MyAppStorageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1212A2AA6C37600474A90 /* MyAppStorageView.swift */; };
+		B9B1212D2AA6C50900474A90 /* MySceneStorageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1212C2AA6C50900474A90 /* MySceneStorageView.swift */; };
+		B9B1212F2AA6C70800474A90 /* MyEnvironmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1212E2AA6C70800474A90 /* MyEnvironmentView.swift */; };
+		B9B121312AA6CD3500474A90 /* MyTaskListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121302AA6CD3500474A90 /* MyTaskListView.swift */; };
+		B9B121332AA6D45300474A90 /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121322AA6D45300474A90 /* MyTextView.swift */; };
+		B9B121352AA6DC7200474A90 /* MyMarkDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121342AA6DC7200474A90 /* MyMarkDownView.swift */; };
+		B9B121382AA706DA00474A90 /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B9B121372AA706DA00474A90 /* Lobster-Regular.ttf */; };
+		B9B1213B2AA7083200474A90 /* MyTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1213A2AA7083200474A90 /* MyTextFieldView.swift */; };
+		B9B1213D2AA70B8800474A90 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1213C2AA70B8800474A90 /* MyImageView.swift */; };
 		B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */; };
 		B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942F2A9EE548005EB294 /* ContentView.swift */; };
 		B9CB94322A9EE54B005EB294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CB94312A9EE54B005EB294 /* Assets.xcassets */; };
@@ -26,6 +36,17 @@
 		B9167D8A2A9F2A6A0093C3A9 /* MyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateView.swift; sourceTree = "<group>"; };
 		B9167D8E2A9F3BC90093C3A9 /* MyObservableObjView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyObservableObjView.swift; sourceTree = "<group>"; };
 		B9B120F62AA02DA000474A90 /* MyStateObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateObjectView.swift; sourceTree = "<group>"; };
+		B9B120F82AA032E900474A90 /* MyCombineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCombineView.swift; sourceTree = "<group>"; };
+		B9B1212A2AA6C37600474A90 /* MyAppStorageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppStorageView.swift; sourceTree = "<group>"; };
+		B9B1212C2AA6C50900474A90 /* MySceneStorageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySceneStorageView.swift; sourceTree = "<group>"; };
+		B9B1212E2AA6C70800474A90 /* MyEnvironmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyEnvironmentView.swift; sourceTree = "<group>"; };
+		B9B121302AA6CD3500474A90 /* MyTaskListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTaskListView.swift; sourceTree = "<group>"; };
+		B9B121322AA6D45300474A90 /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
+		B9B121342AA6DC7200474A90 /* MyMarkDownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMarkDownView.swift; sourceTree = "<group>"; };
+		B9B121372AA706DA00474A90 /* Lobster-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lobster-Regular.ttf"; sourceTree = "<group>"; };
+		B9B121392AA706F700474A90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		B9B1213A2AA7083200474A90 /* MyTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextFieldView.swift; sourceTree = "<group>"; };
+		B9B1213C2AA70B8800474A90 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
 		B9CB942A2A9EE548005EB294 /* SwiftUITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITestApp.swift; sourceTree = "<group>"; };
 		B9CB942F2A9EE548005EB294 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +84,7 @@
 		B9CB942C2A9EE548005EB294 /* SwiftUITest */ = {
 			isa = PBXGroup;
 			children = (
+				B9B121392AA706F700474A90 /* Info.plist */,
 				B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */,
 				B9CB942F2A9EE548005EB294 /* ContentView.swift */,
 				B9167D842A9F18C00093C3A9 /* MyView.swift */,
@@ -71,6 +93,16 @@
 				B9167D8A2A9F2A6A0093C3A9 /* MyStateView.swift */,
 				B9167D8E2A9F3BC90093C3A9 /* MyObservableObjView.swift */,
 				B9B120F62AA02DA000474A90 /* MyStateObjectView.swift */,
+				B9B120F82AA032E900474A90 /* MyCombineView.swift */,
+				B9B1212A2AA6C37600474A90 /* MyAppStorageView.swift */,
+				B9B1212C2AA6C50900474A90 /* MySceneStorageView.swift */,
+				B9B1212E2AA6C70800474A90 /* MyEnvironmentView.swift */,
+				B9B121302AA6CD3500474A90 /* MyTaskListView.swift */,
+				B9B121322AA6D45300474A90 /* MyTextView.swift */,
+				B9B121342AA6DC7200474A90 /* MyMarkDownView.swift */,
+				B9B1213A2AA7083200474A90 /* MyTextFieldView.swift */,
+				B9B121372AA706DA00474A90 /* Lobster-Regular.ttf */,
+				B9B1213C2AA70B8800474A90 /* MyImageView.swift */,
 				B9CB94312A9EE54B005EB294 /* Assets.xcassets */,
 				B9CB94332A9EE54B005EB294 /* Preview Content */,
 			);
@@ -144,6 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9CB94352A9EE54B005EB294 /* Preview Assets.xcassets in Resources */,
+				B9B121382AA706DA00474A90 /* Lobster-Regular.ttf in Resources */,
 				B9CB94322A9EE54B005EB294 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -156,12 +189,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9167D872A9F1E020093C3A9 /* MyOpacityView.swift in Sources */,
+				B9B121312AA6CD3500474A90 /* MyTaskListView.swift in Sources */,
 				B9167D892A9F1F3C0093C3A9 /* MyLazyVGridView.swift in Sources */,
+				B9B121332AA6D45300474A90 /* MyTextView.swift in Sources */,
 				B9167D8B2A9F2A6A0093C3A9 /* MyStateView.swift in Sources */,
+				B9B1212D2AA6C50900474A90 /* MySceneStorageView.swift in Sources */,
 				B9B120F72AA02DA000474A90 /* MyStateObjectView.swift in Sources */,
 				B9167D852A9F18C00093C3A9 /* MyView.swift in Sources */,
+				B9B1213D2AA70B8800474A90 /* MyImageView.swift in Sources */,
 				B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */,
 				B9167D8F2A9F3BC90093C3A9 /* MyObservableObjView.swift in Sources */,
+				B9B1213B2AA7083200474A90 /* MyTextFieldView.swift in Sources */,
+				B9B1212F2AA6C70800474A90 /* MyEnvironmentView.swift in Sources */,
+				B9B120F92AA032E900474A90 /* MyCombineView.swift in Sources */,
+				B9B1212B2AA6C37600474A90 /* MyAppStorageView.swift in Sources */,
+				B9B121352AA6DC7200474A90 /* MyMarkDownView.swift in Sources */,
 				B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,6 +335,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUITest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -322,6 +365,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUITest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
