@@ -23,6 +23,19 @@
 		B9B121382AA706DA00474A90 /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B9B121372AA706DA00474A90 /* Lobster-Regular.ttf */; };
 		B9B1213B2AA7083200474A90 /* MyTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1213A2AA7083200474A90 /* MyTextFieldView.swift */; };
 		B9B1213D2AA70B8800474A90 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1213C2AA70B8800474A90 /* MyImageView.swift */; };
+		B9B1213F2AA70CE200474A90 /* MyCustomPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1213E2AA70CE200474A90 /* MyCustomPathView.swift */; };
+		B9B121412AA70FD100474A90 /* MyFilterImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121402AA70FD100474A90 /* MyFilterImageView.swift */; };
+		B9B121432AA711D800474A90 /* MyBlendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121422AA711D800474A90 /* MyBlendView.swift */; };
+		B9B121452AA7137100474A90 /* MyPhotosPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121442AA7137100474A90 /* MyPhotosPickerView.swift */; };
+		B9B121472AA71AEB00474A90 /* MyTemplateImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121462AA71AEB00474A90 /* MyTemplateImageView.swift */; };
+		B9B121492AA71D2D00474A90 /* MyButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121482AA71D2D00474A90 /* MyButtonView.swift */; };
+		B9B1214B2AA8535400474A90 /* MyAdvancedButtonStyleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1214A2AA8535300474A90 /* MyAdvancedButtonStyleView.swift */; };
+		B9B1214D2AA855C500474A90 /* MyListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1214C2AA855C500474A90 /* MyListView.swift */; };
+		B9B1214F2AA8581C00474A90 /* MyCustonListTileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1214E2AA8581C00474A90 /* MyCustonListTileView.swift */; };
+		B9B121512AA85C8700474A90 /* MyNavigationnTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121502AA85C8700474A90 /* MyNavigationnTitleView.swift */; };
+		B9B121532AA85E9200474A90 /* MyNavigationToolBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121522AA85E9200474A90 /* MyNavigationToolBarView.swift */; };
+		B9B121552AA8604300474A90 /* MyListSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121542AA8604300474A90 /* MyListSectionView.swift */; };
+		B9B121572AA8622900474A90 /* MySearchListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121562AA8622900474A90 /* MySearchListView.swift */; };
 		B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */; };
 		B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942F2A9EE548005EB294 /* ContentView.swift */; };
 		B9CB94322A9EE54B005EB294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CB94312A9EE54B005EB294 /* Assets.xcassets */; };
@@ -47,6 +60,19 @@
 		B9B121392AA706F700474A90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B9B1213A2AA7083200474A90 /* MyTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextFieldView.swift; sourceTree = "<group>"; };
 		B9B1213C2AA70B8800474A90 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
+		B9B1213E2AA70CE200474A90 /* MyCustomPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomPathView.swift; sourceTree = "<group>"; };
+		B9B121402AA70FD100474A90 /* MyFilterImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFilterImageView.swift; sourceTree = "<group>"; };
+		B9B121422AA711D800474A90 /* MyBlendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBlendView.swift; sourceTree = "<group>"; };
+		B9B121442AA7137100474A90 /* MyPhotosPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPhotosPickerView.swift; sourceTree = "<group>"; };
+		B9B121462AA71AEB00474A90 /* MyTemplateImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTemplateImageView.swift; sourceTree = "<group>"; };
+		B9B121482AA71D2D00474A90 /* MyButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtonView.swift; sourceTree = "<group>"; };
+		B9B1214A2AA8535300474A90 /* MyAdvancedButtonStyleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAdvancedButtonStyleView.swift; sourceTree = "<group>"; };
+		B9B1214C2AA855C500474A90 /* MyListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListView.swift; sourceTree = "<group>"; };
+		B9B1214E2AA8581C00474A90 /* MyCustonListTileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustonListTileView.swift; sourceTree = "<group>"; };
+		B9B121502AA85C8700474A90 /* MyNavigationnTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationnTitleView.swift; sourceTree = "<group>"; };
+		B9B121522AA85E9200474A90 /* MyNavigationToolBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationToolBarView.swift; sourceTree = "<group>"; };
+		B9B121542AA8604300474A90 /* MyListSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListSectionView.swift; sourceTree = "<group>"; };
+		B9B121562AA8622900474A90 /* MySearchListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySearchListView.swift; sourceTree = "<group>"; };
 		B9CB942A2A9EE548005EB294 /* SwiftUITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITestApp.swift; sourceTree = "<group>"; };
 		B9CB942F2A9EE548005EB294 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +129,19 @@
 				B9B1213A2AA7083200474A90 /* MyTextFieldView.swift */,
 				B9B121372AA706DA00474A90 /* Lobster-Regular.ttf */,
 				B9B1213C2AA70B8800474A90 /* MyImageView.swift */,
+				B9B1213E2AA70CE200474A90 /* MyCustomPathView.swift */,
+				B9B121402AA70FD100474A90 /* MyFilterImageView.swift */,
+				B9B121422AA711D800474A90 /* MyBlendView.swift */,
+				B9B121442AA7137100474A90 /* MyPhotosPickerView.swift */,
+				B9B121462AA71AEB00474A90 /* MyTemplateImageView.swift */,
+				B9B121482AA71D2D00474A90 /* MyButtonView.swift */,
+				B9B1214A2AA8535300474A90 /* MyAdvancedButtonStyleView.swift */,
+				B9B1214C2AA855C500474A90 /* MyListView.swift */,
+				B9B1214E2AA8581C00474A90 /* MyCustonListTileView.swift */,
+				B9B121502AA85C8700474A90 /* MyNavigationnTitleView.swift */,
+				B9B121522AA85E9200474A90 /* MyNavigationToolBarView.swift */,
+				B9B121542AA8604300474A90 /* MyListSectionView.swift */,
+				B9B121562AA8622900474A90 /* MySearchListView.swift */,
 				B9CB94312A9EE54B005EB294 /* Assets.xcassets */,
 				B9CB94332A9EE54B005EB294 /* Preview Content */,
 			);
@@ -189,21 +228,34 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9167D872A9F1E020093C3A9 /* MyOpacityView.swift in Sources */,
+				B9B121452AA7137100474A90 /* MyPhotosPickerView.swift in Sources */,
 				B9B121312AA6CD3500474A90 /* MyTaskListView.swift in Sources */,
+				B9B121512AA85C8700474A90 /* MyNavigationnTitleView.swift in Sources */,
 				B9167D892A9F1F3C0093C3A9 /* MyLazyVGridView.swift in Sources */,
 				B9B121332AA6D45300474A90 /* MyTextView.swift in Sources */,
+				B9B1213F2AA70CE200474A90 /* MyCustomPathView.swift in Sources */,
+				B9B121412AA70FD100474A90 /* MyFilterImageView.swift in Sources */,
 				B9167D8B2A9F2A6A0093C3A9 /* MyStateView.swift in Sources */,
 				B9B1212D2AA6C50900474A90 /* MySceneStorageView.swift in Sources */,
+				B9B1214D2AA855C500474A90 /* MyListView.swift in Sources */,
+				B9B1214F2AA8581C00474A90 /* MyCustonListTileView.swift in Sources */,
 				B9B120F72AA02DA000474A90 /* MyStateObjectView.swift in Sources */,
 				B9167D852A9F18C00093C3A9 /* MyView.swift in Sources */,
+				B9B121572AA8622900474A90 /* MySearchListView.swift in Sources */,
+				B9B121432AA711D800474A90 /* MyBlendView.swift in Sources */,
 				B9B1213D2AA70B8800474A90 /* MyImageView.swift in Sources */,
 				B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */,
+				B9B1214B2AA8535400474A90 /* MyAdvancedButtonStyleView.swift in Sources */,
 				B9167D8F2A9F3BC90093C3A9 /* MyObservableObjView.swift in Sources */,
 				B9B1213B2AA7083200474A90 /* MyTextFieldView.swift in Sources */,
+				B9B121472AA71AEB00474A90 /* MyTemplateImageView.swift in Sources */,
 				B9B1212F2AA6C70800474A90 /* MyEnvironmentView.swift in Sources */,
 				B9B120F92AA032E900474A90 /* MyCombineView.swift in Sources */,
 				B9B1212B2AA6C37600474A90 /* MyAppStorageView.swift in Sources */,
+				B9B121532AA85E9200474A90 /* MyNavigationToolBarView.swift in Sources */,
 				B9B121352AA6DC7200474A90 /* MyMarkDownView.swift in Sources */,
+				B9B121552AA8604300474A90 /* MyListSectionView.swift in Sources */,
+				B9B121492AA71D2D00474A90 /* MyButtonView.swift in Sources */,
 				B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
