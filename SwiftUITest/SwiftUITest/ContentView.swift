@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView1: View {
     
     @State private var username = ""
     @State private var email = ""
@@ -107,13 +107,13 @@ struct DetailView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct ContentView1_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ContentView1()
             .previewDevice("iPhone 14 Pro")
-        ContentView()
+        ContentView1()
             .preferredColorScheme(.dark)
-        ContentView()
+        ContentView1()
             .previewInterfaceOrientation(.landscapeLeft)
     }
 }

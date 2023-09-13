@@ -12,6 +12,10 @@
 		B9167D892A9F1F3C0093C3A9 /* MyLazyVGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9167D882A9F1F3C0093C3A9 /* MyLazyVGridView.swift */; };
 		B9167D8B2A9F2A6A0093C3A9 /* MyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9167D8A2A9F2A6A0093C3A9 /* MyStateView.swift */; };
 		B9167D8F2A9F3BC90093C3A9 /* MyObservableObjView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9167D8E2A9F3BC90093C3A9 /* MyObservableObjView.swift */; };
+		B9981E272AB1557200309658 /* MyColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9981E262AB1557200309658 /* MyColorPickerView.swift */; };
+		B9981E292AB156A100309658 /* MyCustomTabViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9981E282AB156A100309658 /* MyCustomTabViewView.swift */; };
+		B9981E2B2AB157DB00309658 /* MySplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9981E2A2AB157DB00309658 /* MySplitView.swift */; };
+		B9981E2D2AB15A5F00309658 /* MyCustomizeSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9981E2C2AB15A5F00309658 /* MyCustomizeSplitView.swift */; };
 		B9B120F72AA02DA000474A90 /* MyStateObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B120F62AA02DA000474A90 /* MyStateObjectView.swift */; };
 		B9B120F92AA032E900474A90 /* MyCombineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B120F82AA032E900474A90 /* MyCombineView.swift */; };
 		B9B1212B2AA6C37600474A90 /* MyAppStorageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1212A2AA6C37600474A90 /* MyAppStorageView.swift */; };
@@ -36,6 +40,13 @@
 		B9B121532AA85E9200474A90 /* MyNavigationToolBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121522AA85E9200474A90 /* MyNavigationToolBarView.swift */; };
 		B9B121552AA8604300474A90 /* MyListSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121542AA8604300474A90 /* MyListSectionView.swift */; };
 		B9B121572AA8622900474A90 /* MySearchListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121562AA8622900474A90 /* MySearchListView.swift */; };
+		B9B121592AA8653300474A90 /* MyListSwipActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121582AA8653300474A90 /* MyListSwipActionView.swift */; };
+		B9B1215B2AA867B800474A90 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1215A2AA867B800474A90 /* MyTabView.swift */; };
+		B9B1215D2AA86AC900474A90 /* MyProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1215C2AA86AC900474A90 /* MyProgressView.swift */; };
+		B9B1215F2AA86EE600474A90 /* MySectionFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B1215E2AA86EE600474A90 /* MySectionFormView.swift */; };
+		B9B121612AA870B400474A90 /* MyToggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B121602AA870B400474A90 /* MyToggleView.swift */; };
+		B9C3C7462AB042D700906256 /* MyPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C3C7452AB042D700906256 /* MyPickerView.swift */; };
+		B9C3C7482AB0462800906256 /* MySliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C3C7472AB0462800906256 /* MySliderView.swift */; };
 		B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */; };
 		B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942F2A9EE548005EB294 /* ContentView.swift */; };
 		B9CB94322A9EE54B005EB294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CB94312A9EE54B005EB294 /* Assets.xcassets */; };
@@ -48,6 +59,10 @@
 		B9167D882A9F1F3C0093C3A9 /* MyLazyVGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLazyVGridView.swift; sourceTree = "<group>"; };
 		B9167D8A2A9F2A6A0093C3A9 /* MyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateView.swift; sourceTree = "<group>"; };
 		B9167D8E2A9F3BC90093C3A9 /* MyObservableObjView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyObservableObjView.swift; sourceTree = "<group>"; };
+		B9981E262AB1557200309658 /* MyColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColorPickerView.swift; sourceTree = "<group>"; };
+		B9981E282AB156A100309658 /* MyCustomTabViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomTabViewView.swift; sourceTree = "<group>"; };
+		B9981E2A2AB157DB00309658 /* MySplitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySplitView.swift; sourceTree = "<group>"; };
+		B9981E2C2AB15A5F00309658 /* MyCustomizeSplitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomizeSplitView.swift; sourceTree = "<group>"; };
 		B9B120F62AA02DA000474A90 /* MyStateObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateObjectView.swift; sourceTree = "<group>"; };
 		B9B120F82AA032E900474A90 /* MyCombineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCombineView.swift; sourceTree = "<group>"; };
 		B9B1212A2AA6C37600474A90 /* MyAppStorageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppStorageView.swift; sourceTree = "<group>"; };
@@ -73,6 +88,13 @@
 		B9B121522AA85E9200474A90 /* MyNavigationToolBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationToolBarView.swift; sourceTree = "<group>"; };
 		B9B121542AA8604300474A90 /* MyListSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListSectionView.swift; sourceTree = "<group>"; };
 		B9B121562AA8622900474A90 /* MySearchListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySearchListView.swift; sourceTree = "<group>"; };
+		B9B121582AA8653300474A90 /* MyListSwipActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListSwipActionView.swift; sourceTree = "<group>"; };
+		B9B1215A2AA867B800474A90 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
+		B9B1215C2AA86AC900474A90 /* MyProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProgressView.swift; sourceTree = "<group>"; };
+		B9B1215E2AA86EE600474A90 /* MySectionFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySectionFormView.swift; sourceTree = "<group>"; };
+		B9B121602AA870B400474A90 /* MyToggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleView.swift; sourceTree = "<group>"; };
+		B9C3C7452AB042D700906256 /* MyPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPickerView.swift; sourceTree = "<group>"; };
+		B9C3C7472AB0462800906256 /* MySliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySliderView.swift; sourceTree = "<group>"; };
 		B9CB942A2A9EE548005EB294 /* SwiftUITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9CB942D2A9EE548005EB294 /* SwiftUITestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITestApp.swift; sourceTree = "<group>"; };
 		B9CB942F2A9EE548005EB294 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -142,6 +164,17 @@
 				B9B121522AA85E9200474A90 /* MyNavigationToolBarView.swift */,
 				B9B121542AA8604300474A90 /* MyListSectionView.swift */,
 				B9B121562AA8622900474A90 /* MySearchListView.swift */,
+				B9B121582AA8653300474A90 /* MyListSwipActionView.swift */,
+				B9B1215A2AA867B800474A90 /* MyTabView.swift */,
+				B9981E282AB156A100309658 /* MyCustomTabViewView.swift */,
+				B9B1215C2AA86AC900474A90 /* MyProgressView.swift */,
+				B9B1215E2AA86EE600474A90 /* MySectionFormView.swift */,
+				B9B121602AA870B400474A90 /* MyToggleView.swift */,
+				B9C3C7452AB042D700906256 /* MyPickerView.swift */,
+				B9C3C7472AB0462800906256 /* MySliderView.swift */,
+				B9981E262AB1557200309658 /* MyColorPickerView.swift */,
+				B9981E2A2AB157DB00309658 /* MySplitView.swift */,
+				B9981E2C2AB15A5F00309658 /* MyCustomizeSplitView.swift */,
 				B9CB94312A9EE54B005EB294 /* Assets.xcassets */,
 				B9CB94332A9EE54B005EB294 /* Preview Content */,
 			);
@@ -228,16 +261,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9167D872A9F1E020093C3A9 /* MyOpacityView.swift in Sources */,
+				B9981E2B2AB157DB00309658 /* MySplitView.swift in Sources */,
 				B9B121452AA7137100474A90 /* MyPhotosPickerView.swift in Sources */,
+				B9B1215B2AA867B800474A90 /* MyTabView.swift in Sources */,
 				B9B121312AA6CD3500474A90 /* MyTaskListView.swift in Sources */,
+				B9C3C7462AB042D700906256 /* MyPickerView.swift in Sources */,
 				B9B121512AA85C8700474A90 /* MyNavigationnTitleView.swift in Sources */,
 				B9167D892A9F1F3C0093C3A9 /* MyLazyVGridView.swift in Sources */,
+				B9B121612AA870B400474A90 /* MyToggleView.swift in Sources */,
 				B9B121332AA6D45300474A90 /* MyTextView.swift in Sources */,
 				B9B1213F2AA70CE200474A90 /* MyCustomPathView.swift in Sources */,
 				B9B121412AA70FD100474A90 /* MyFilterImageView.swift in Sources */,
 				B9167D8B2A9F2A6A0093C3A9 /* MyStateView.swift in Sources */,
 				B9B1212D2AA6C50900474A90 /* MySceneStorageView.swift in Sources */,
+				B9981E292AB156A100309658 /* MyCustomTabViewView.swift in Sources */,
 				B9B1214D2AA855C500474A90 /* MyListView.swift in Sources */,
+				B9981E272AB1557200309658 /* MyColorPickerView.swift in Sources */,
 				B9B1214F2AA8581C00474A90 /* MyCustonListTileView.swift in Sources */,
 				B9B120F72AA02DA000474A90 /* MyStateObjectView.swift in Sources */,
 				B9167D852A9F18C00093C3A9 /* MyView.swift in Sources */,
@@ -251,10 +290,15 @@
 				B9B121472AA71AEB00474A90 /* MyTemplateImageView.swift in Sources */,
 				B9B1212F2AA6C70800474A90 /* MyEnvironmentView.swift in Sources */,
 				B9B120F92AA032E900474A90 /* MyCombineView.swift in Sources */,
+				B9981E2D2AB15A5F00309658 /* MyCustomizeSplitView.swift in Sources */,
 				B9B1212B2AA6C37600474A90 /* MyAppStorageView.swift in Sources */,
+				B9B121592AA8653300474A90 /* MyListSwipActionView.swift in Sources */,
 				B9B121532AA85E9200474A90 /* MyNavigationToolBarView.swift in Sources */,
+				B9C3C7482AB0462800906256 /* MySliderView.swift in Sources */,
+				B9B1215F2AA86EE600474A90 /* MySectionFormView.swift in Sources */,
 				B9B121352AA6DC7200474A90 /* MyMarkDownView.swift in Sources */,
 				B9B121552AA8604300474A90 /* MyListSectionView.swift in Sources */,
+				B9B1215D2AA86AC900474A90 /* MyProgressView.swift in Sources */,
 				B9B121492AA71D2D00474A90 /* MyButtonView.swift in Sources */,
 				B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */,
 			);
@@ -385,6 +429,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITest/Preview Content\"";
+				DEVELOPMENT_TEAM = 849Z9TK6YA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SwiftUITest/Info.plist;
@@ -399,7 +444,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = qjyApp.SwiftUITest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qingjiaoyundiannao.www;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -415,6 +460,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITest/Preview Content\"";
+				DEVELOPMENT_TEAM = 849Z9TK6YA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SwiftUITest/Info.plist;
@@ -429,7 +475,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = qjyApp.SwiftUITest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qingjiaoyundiannao.www;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
