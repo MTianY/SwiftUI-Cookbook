@@ -51,6 +51,19 @@
 		B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CB942F2A9EE548005EB294 /* ContentView.swift */; };
 		B9CB94322A9EE54B005EB294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CB94312A9EE54B005EB294 /* Assets.xcassets */; };
 		B9CB94352A9EE54B005EB294 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CB94342A9EE54B005EB294 /* Preview Assets.xcassets */; };
+		B9D2F08B2AB16796003BB382 /* MyPresentModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F08A2AB16796003BB382 /* MyPresentModalView.swift */; };
+		B9D2F08F2AB3F2BA003BB382 /* MyProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F08E2AB3F2BA003BB382 /* MyProgressBarView.swift */; };
+		B9D2F0932AB3F636003BB382 /* MyCircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0922AB3F636003BB382 /* MyCircularProgressView.swift */; };
+		B9D2F0952AB3FA4A003BB382 /* MyDeterminateProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0942AB3FA4A003BB382 /* MyDeterminateProgressView.swift */; };
+		B9D2F0972AB3FBFA003BB382 /* MyIndicateIndeterminateProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0962AB3FBFA003BB382 /* MyIndicateIndeterminateProgressView.swift */; };
+		B9D2F0992AB3FD27003BB382 /* MyNavigationBarProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0982AB3FD27003BB382 /* MyNavigationBarProgressView.swift */; };
+		B9D2F09B2AB3FE3D003BB382 /* MyCustomSegmentedProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F09A2AB3FE3D003BB382 /* MyCustomSegmentedProgressBarView.swift */; };
+		B9D2F09D2AB40109003BB382 /* MyCustomProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F09C2AB40109003BB382 /* MyCustomProgressView.swift */; };
+		B9D2F09F2AB40666003BB382 /* MyUnderstandingFramesAndAlignmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F09E2AB40666003BB382 /* MyUnderstandingFramesAndAlignmentView.swift */; };
+		B9D2F0A32AB407B4003BB382 /* MyViewThatFitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0A22AB407B4003BB382 /* MyViewThatFitsView.swift */; };
+		B9D2F0A52AB408AD003BB382 /* MyLazyVHGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0A42AB408AD003BB382 /* MyLazyVHGridView.swift */; };
+		B9D2F0A72AB40AA8003BB382 /* MyScrollViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0A62AB40AA8003BB382 /* MyScrollViewView.swift */; };
+		B9D2F0A92AB40C0C003BB382 /* MyZStackVStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2F0A82AB40C0C003BB382 /* MyZStackVStackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +113,19 @@
 		B9CB942F2A9EE548005EB294 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B9CB94312A9EE54B005EB294 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9CB94342A9EE54B005EB294 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B9D2F08A2AB16796003BB382 /* MyPresentModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPresentModalView.swift; sourceTree = "<group>"; };
+		B9D2F08E2AB3F2BA003BB382 /* MyProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProgressBarView.swift; sourceTree = "<group>"; };
+		B9D2F0922AB3F636003BB382 /* MyCircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCircularProgressView.swift; sourceTree = "<group>"; };
+		B9D2F0942AB3FA4A003BB382 /* MyDeterminateProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDeterminateProgressView.swift; sourceTree = "<group>"; };
+		B9D2F0962AB3FBFA003BB382 /* MyIndicateIndeterminateProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIndicateIndeterminateProgressView.swift; sourceTree = "<group>"; };
+		B9D2F0982AB3FD27003BB382 /* MyNavigationBarProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationBarProgressView.swift; sourceTree = "<group>"; };
+		B9D2F09A2AB3FE3D003BB382 /* MyCustomSegmentedProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomSegmentedProgressBarView.swift; sourceTree = "<group>"; };
+		B9D2F09C2AB40109003BB382 /* MyCustomProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomProgressView.swift; sourceTree = "<group>"; };
+		B9D2F09E2AB40666003BB382 /* MyUnderstandingFramesAndAlignmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUnderstandingFramesAndAlignmentView.swift; sourceTree = "<group>"; };
+		B9D2F0A22AB407B4003BB382 /* MyViewThatFitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewThatFitsView.swift; sourceTree = "<group>"; };
+		B9D2F0A42AB408AD003BB382 /* MyLazyVHGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLazyVHGridView.swift; sourceTree = "<group>"; };
+		B9D2F0A62AB40AA8003BB382 /* MyScrollViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyScrollViewView.swift; sourceTree = "<group>"; };
+		B9D2F0A82AB40C0C003BB382 /* MyZStackVStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyZStackVStackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +201,19 @@
 				B9981E262AB1557200309658 /* MyColorPickerView.swift */,
 				B9981E2A2AB157DB00309658 /* MySplitView.swift */,
 				B9981E2C2AB15A5F00309658 /* MyCustomizeSplitView.swift */,
+				B9D2F08A2AB16796003BB382 /* MyPresentModalView.swift */,
+				B9D2F08E2AB3F2BA003BB382 /* MyProgressBarView.swift */,
+				B9D2F0922AB3F636003BB382 /* MyCircularProgressView.swift */,
+				B9D2F0942AB3FA4A003BB382 /* MyDeterminateProgressView.swift */,
+				B9D2F0962AB3FBFA003BB382 /* MyIndicateIndeterminateProgressView.swift */,
+				B9D2F0982AB3FD27003BB382 /* MyNavigationBarProgressView.swift */,
+				B9D2F09A2AB3FE3D003BB382 /* MyCustomSegmentedProgressBarView.swift */,
+				B9D2F09C2AB40109003BB382 /* MyCustomProgressView.swift */,
+				B9D2F09E2AB40666003BB382 /* MyUnderstandingFramesAndAlignmentView.swift */,
+				B9D2F0A22AB407B4003BB382 /* MyViewThatFitsView.swift */,
+				B9D2F0A42AB408AD003BB382 /* MyLazyVHGridView.swift */,
+				B9D2F0A62AB40AA8003BB382 /* MyScrollViewView.swift */,
+				B9D2F0A82AB40C0C003BB382 /* MyZStackVStackView.swift */,
 				B9CB94312A9EE54B005EB294 /* Assets.xcassets */,
 				B9CB94332A9EE54B005EB294 /* Preview Content */,
 			);
@@ -263,28 +302,37 @@
 				B9167D872A9F1E020093C3A9 /* MyOpacityView.swift in Sources */,
 				B9981E2B2AB157DB00309658 /* MySplitView.swift in Sources */,
 				B9B121452AA7137100474A90 /* MyPhotosPickerView.swift in Sources */,
+				B9D2F08F2AB3F2BA003BB382 /* MyProgressBarView.swift in Sources */,
 				B9B1215B2AA867B800474A90 /* MyTabView.swift in Sources */,
 				B9B121312AA6CD3500474A90 /* MyTaskListView.swift in Sources */,
+				B9D2F0972AB3FBFA003BB382 /* MyIndicateIndeterminateProgressView.swift in Sources */,
 				B9C3C7462AB042D700906256 /* MyPickerView.swift in Sources */,
 				B9B121512AA85C8700474A90 /* MyNavigationnTitleView.swift in Sources */,
 				B9167D892A9F1F3C0093C3A9 /* MyLazyVGridView.swift in Sources */,
 				B9B121612AA870B400474A90 /* MyToggleView.swift in Sources */,
 				B9B121332AA6D45300474A90 /* MyTextView.swift in Sources */,
 				B9B1213F2AA70CE200474A90 /* MyCustomPathView.swift in Sources */,
+				B9D2F0A32AB407B4003BB382 /* MyViewThatFitsView.swift in Sources */,
 				B9B121412AA70FD100474A90 /* MyFilterImageView.swift in Sources */,
 				B9167D8B2A9F2A6A0093C3A9 /* MyStateView.swift in Sources */,
 				B9B1212D2AA6C50900474A90 /* MySceneStorageView.swift in Sources */,
 				B9981E292AB156A100309658 /* MyCustomTabViewView.swift in Sources */,
 				B9B1214D2AA855C500474A90 /* MyListView.swift in Sources */,
 				B9981E272AB1557200309658 /* MyColorPickerView.swift in Sources */,
+				B9D2F09B2AB3FE3D003BB382 /* MyCustomSegmentedProgressBarView.swift in Sources */,
 				B9B1214F2AA8581C00474A90 /* MyCustonListTileView.swift in Sources */,
 				B9B120F72AA02DA000474A90 /* MyStateObjectView.swift in Sources */,
 				B9167D852A9F18C00093C3A9 /* MyView.swift in Sources */,
 				B9B121572AA8622900474A90 /* MySearchListView.swift in Sources */,
+				B9D2F0932AB3F636003BB382 /* MyCircularProgressView.swift in Sources */,
 				B9B121432AA711D800474A90 /* MyBlendView.swift in Sources */,
 				B9B1213D2AA70B8800474A90 /* MyImageView.swift in Sources */,
 				B9CB94302A9EE548005EB294 /* ContentView.swift in Sources */,
 				B9B1214B2AA8535400474A90 /* MyAdvancedButtonStyleView.swift in Sources */,
+				B9D2F0A52AB408AD003BB382 /* MyLazyVHGridView.swift in Sources */,
+				B9D2F0992AB3FD27003BB382 /* MyNavigationBarProgressView.swift in Sources */,
+				B9D2F0A92AB40C0C003BB382 /* MyZStackVStackView.swift in Sources */,
+				B9D2F09D2AB40109003BB382 /* MyCustomProgressView.swift in Sources */,
 				B9167D8F2A9F3BC90093C3A9 /* MyObservableObjView.swift in Sources */,
 				B9B1213B2AA7083200474A90 /* MyTextFieldView.swift in Sources */,
 				B9B121472AA71AEB00474A90 /* MyTemplateImageView.swift in Sources */,
@@ -300,6 +348,10 @@
 				B9B121552AA8604300474A90 /* MyListSectionView.swift in Sources */,
 				B9B1215D2AA86AC900474A90 /* MyProgressView.swift in Sources */,
 				B9B121492AA71D2D00474A90 /* MyButtonView.swift in Sources */,
+				B9D2F08B2AB16796003BB382 /* MyPresentModalView.swift in Sources */,
+				B9D2F09F2AB40666003BB382 /* MyUnderstandingFramesAndAlignmentView.swift in Sources */,
+				B9D2F0A72AB40AA8003BB382 /* MyScrollViewView.swift in Sources */,
+				B9D2F0952AB3FA4A003BB382 /* MyDeterminateProgressView.swift in Sources */,
 				B9CB942E2A9EE548005EB294 /* SwiftUITestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
